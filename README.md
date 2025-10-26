@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @saipramodgn
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me @ saipramodgn@gmail.com
 
 <!---
